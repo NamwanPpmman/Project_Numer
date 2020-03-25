@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    background: url(../image/bg1.jpg) no-repeat;
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+}
+.header_area{
+    text-align: center;
+    color: white;
+}
+.header_area h1{
+    margin: 0;
+    padding-top: 12%;
+    font-size: 60px;
+    font-weight: normal;
+}
